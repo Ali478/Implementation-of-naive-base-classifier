@@ -7,22 +7,7 @@ Data Set: The data set has 2 classes, 4 features and 13 samples. In desperate si
 Using all 13 samples, decide whether or not you will play gold if the sample vector is [Sunny, Mild, High, TRUE]. That is, what is the class label for this sample?
 # Question No.2:
 Using first 10 samples, predict the Yes or No label for the samples 11, 12 and 13. Write your results in the form of a table. Comment on the performance of NB classifier. What would be the class label for the sample given in 1. Does the class label change?
-     
-Sample
-Actual Label
-Predicted/estimated Label
-11
-
-
-12
-
-
-13
-
-
-[Sunny, Mild, High, TRUE].
-
-NO
-
+     ![Screenshot from 2022-03-12 14-24-47](https://user-images.githubusercontent.com/54278016/158012350-9764d4d1-825b-4038-be65-100719fe9bbf.png)
 
 # Question No.3:
+Using first 11 samples, predict the Yes or No label for the samples 12 and 13. Write your results in the form of a table. Comment on the performance of NB classifier. What would be the class label for the sample given in 1. Does the class label change?![Screenshot from 2022-03-12 14-26-27](https://user-images.githubusercontent.com/54278016/158012396-7b602b1d-12ef-48dc-816a-c65a4678d41f.png)
