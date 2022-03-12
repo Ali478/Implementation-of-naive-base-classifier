@@ -8,7 +8,9 @@ Using all 13 samples, decide whether or not you will play gold if the sample vec
 # Question No.2:
 Using first 10 samples, predict the Yes or No label for the samples 11, 12 and 13. Write your results in the form of a table. Comment on the performance of NB classifier. What would be the class label for the sample given in 1. Does the class label change?
 
-     ![Screenshot from 2022-03-12 14-24-47](https://user-images.githubusercontent.com/54278016/158012350-9764d4d1-825b-4038-be65-100719fe9bbf.png)
+     
+   ![Screenshot from 2022-03-12 14-24-47](https://user-images.githubusercontent.com/54278016/158012447-4c9700b4-3acd-4e3a-b8e9-4d03ccf387c9.png)
+
 
 # Question No.3:
 Using first 11 samples, predict the Yes or No label for the samples 12 and 13. Write your results in the form of a table. Comment on the performance of NB classifier. What would be the class label for the sample given in 1. Does the class label change?
