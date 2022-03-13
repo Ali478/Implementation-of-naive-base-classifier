@@ -1,8 +1,8 @@
 # Implementation-of-naive-base-classifier
 Implement Naïve Bayes Classifier; train and test it against a given dataset.
 # How To Run:
- Markup : * connect Google drive to collab
-          * add XLSX Or CSV file to Drive depends on your choice. In this case use XLSX
+Markup : * connect Google drive to collab
+         * add XLSX Or CSV file to Drive depends on your choice. In this case use XLSX
 
 
 # PROBLEM:
